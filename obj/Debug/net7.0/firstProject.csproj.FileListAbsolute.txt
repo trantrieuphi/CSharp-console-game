@@ -1,0 +1,15 @@
+C:\code\csharp\firstProject\bin\Debug\net7.0\firstProject.exe
+C:\code\csharp\firstProject\bin\Debug\net7.0\firstProject.deps.json
+C:\code\csharp\firstProject\bin\Debug\net7.0\firstProject.runtimeconfig.json
+C:\code\csharp\firstProject\bin\Debug\net7.0\firstProject.dll
+C:\code\csharp\firstProject\bin\Debug\net7.0\firstProject.pdb
+C:\code\csharp\firstProject\obj\Debug\net7.0\firstProject.csproj.AssemblyReference.cache
+C:\code\csharp\firstProject\obj\Debug\net7.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csharp\firstProject\obj\Debug\net7.0\firstProject.AssemblyInfoInputs.cache
+C:\code\csharp\firstProject\obj\Debug\net7.0\firstProject.AssemblyInfo.cs
+C:\code\csharp\firstProject\obj\Debug\net7.0\firstProject.csproj.CoreCompileInputs.cache
+C:\code\csharp\firstProject\obj\Debug\net7.0\firstProject.dll
+C:\code\csharp\firstProject\obj\Debug\net7.0\refint\firstProject.dll
+C:\code\csharp\firstProject\obj\Debug\net7.0\firstProject.pdb
+C:\code\csharp\firstProject\obj\Debug\net7.0\firstProject.genruntimeconfig.cache
+C:\code\csharp\firstProject\obj\Debug\net7.0\ref\firstProject.dll

@@ -1,0 +1,10 @@
+### PROGRAM IS FIGHTING GAME
+## Turn-based fighting game
+## Player and monter inheritanced from class Animal, having 4 status level, power, hp, mp
+## Player have 2 more status is name and job
+## monter have 2 type is pig and bird
+## Starting program, name player was inputed from key board
+## Status of player and monter, first turn be random
+## Players will enter skills from the keyboard, 1 is normal attack, 2 is ultimate. The monster's skill will be random
+## If use ultimate skill and mp lower mp need, the system will use normal skills instead
+## The program ends when 1 of the 2 runs out of HP
